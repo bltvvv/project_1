@@ -1,2 +1,0 @@
-line c1
-line c2
